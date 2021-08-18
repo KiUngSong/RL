@@ -1,2 +1,2 @@
 # RL
-Various Code Implentation of RL
+Repository of Various Code Implementation of RL
