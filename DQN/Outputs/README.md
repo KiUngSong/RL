@@ -1,1 +1,1 @@
-Output of trained DQN model
+Outputs of trained DQN model
