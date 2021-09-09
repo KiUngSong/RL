@@ -2,7 +2,6 @@ import torch
 import gym
 import torch.nn as nn
 from torch.nn import functional as F
-from torch.autograd import Variable
 import random, collections, os
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
