@@ -33,7 +33,7 @@ def fan_in_init(tensor, fan_in=None):
     nn.init.uniform_(tensor, -w, w)
 
 
-# Define Actor model : Policy function μ(a)
+# Define Actor model : Policy function μ(s)
 class Actor(nn.Module):
     def __init__(self, input_dim, action_dim, actor_dims, action_max):
         super(Actor, self).__init__()
