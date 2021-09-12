@@ -1,6 +1,6 @@
 Implemented DDPG with pytorch
 
-Tested with MountainCarContinous-v0 and LunarLanderContinuous-v2 of OpenAI GYM game
+Tested with MountainCarContinuous-v0 and LunarLanderContinuous-v2 of OpenAI GYM game
 
 * Implementation of DDPG was highly susceptible to hyperparameters 
 * Training procedure itself was also highly unstable
