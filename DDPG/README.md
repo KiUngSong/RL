@@ -10,3 +10,6 @@ Tested with MountainCarContinuous-v0 and LunarLanderContinuous-v2 of OpenAI GYM 
   2. Muptiplied action_ratio(=0.25 for MountainCar / =1 for LunarLander) to action value of Actor to encourage more exploration : 
       
       without this, Actor's action was trapped in local minima where car always move on one side of mountain only not reaching desired endpoint
+      
+#### Trained model example : MountainCarContinuous-v0
+<img src="https://user-images.githubusercontent.com/48702949/136687418-ecb98c08-e046-4d2e-8933-485357ce50ac.gif" width="600" height="400"/>
