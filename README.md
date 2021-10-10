@@ -5,3 +5,6 @@ Repository of Various Test & Implementation of RL
 * DQN 
 * DDPG
 * PPO
+* SAC : Soft Actor-Critic -https://arxiv.org/abs/1812.05905
+
+## Model based
